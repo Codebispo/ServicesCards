@@ -41,8 +41,8 @@ body {
 
 /*==================== REUSABLE CSS CLASSES ====================*/
 .container {
-  max-width: 1140px;
-  width: 100%;
+  max-width: 1200px;
+  width: 25%;
   margin: 0 auto;
   padding: 3rem 0;
   min-height: 100vh;
@@ -185,5 +185,3 @@ body {
   color: var(--dark-color);
   background-color: var(--clr);
 }
-
-
